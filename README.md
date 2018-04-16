@@ -3,6 +3,8 @@ Dockerized PHP
 [![](https://images.microbadger.com/badges/image/petronetto/php-nginx-alpine:stable.svg)](https://microbadger.com/images/petronetto/php-nginx-alpine:stable "Get your own image badge on microbadger.com")
 [![](https://images.microbadger.com/badges/version/petronetto/php-nginx-alpine:stable.svg)](https://microbadger.com/images/petronetto/php-nginx-alpine:stable "Get your own version badge on microbadger.com")
 
+Credits by: [petronetto](https://github.com/petronetto/php-nginx-alpine)
+
 This image contains:
 - PHP 7.0.16
 - Nginx 1.10
